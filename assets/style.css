@@ -46,7 +46,7 @@ body {
 }
 
 .carousel img {
-	height: auto;
+	height: 888px;
 	width: 100%;
 	object-fit: cover;
 
@@ -282,6 +282,11 @@ input[type="submit"] {
 		align-items: center
 	}
 
+	.carousel img {
+		height: 535px;
+	}
+
+
 	.about-me__title {
 		margin-top: 0;
 		margin-bottom: 1em
@@ -310,6 +315,10 @@ input[type="submit"] {
 		top: 0;
 		left: 0;
 		z-index: -1
+	}
+
+	.carousel img {
+		height: 500px;
 	}
 
 	.about-me__title {
@@ -380,6 +389,10 @@ input[type="submit"] {
 	.picture.left::before,
 	.picture.right::before {
 		height: 150px
+	}
+
+	.carousel img {
+		height: 350px;
 	}
 
 
