@@ -78,8 +78,8 @@ body {
 }
 
 .picture img {
-	width: 100%;
-	height: auto;
+	width: 400px;
+	height: 400px;
 	object-fit: cover;
 }
 
@@ -286,6 +286,11 @@ input[type="submit"] {
 		height: 535px;
 	}
 
+	.picture img {
+		width: 350px;
+		height: 350px;
+	}
+
 
 	.about-me__title {
 		margin-top: 0;
@@ -319,6 +324,11 @@ input[type="submit"] {
 
 	.carousel img {
 		height: 500px;
+	}
+
+	.picture img {
+		width: 310px;
+		height: 310px;
 	}
 
 	.about-me__title {
@@ -393,6 +403,11 @@ input[type="submit"] {
 
 	.carousel img {
 		height: 350px;
+	}
+
+	.picture img {
+		width: 250px;
+		height: 250px;
 	}
 
 
