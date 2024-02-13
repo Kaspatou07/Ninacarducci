@@ -47,7 +47,7 @@ body {
 
 .carousel img {
 	height: 888px;
-	width: 100%;
+	width: 1920px;
 	object-fit: cover;
 
 }
@@ -284,6 +284,7 @@ input[type="submit"] {
 
 	.carousel img {
 		height: 535px;
+		width: 70%;
 	}
 
 	.picture img {
@@ -403,6 +404,7 @@ input[type="submit"] {
 
 	.carousel img {
 		height: 350px;
+		width: 40%;
 	}
 
 	.picture img {
