@@ -52,6 +52,10 @@ body {
 
 }
 
+.my-4 {
+	font-weight: bold;
+}
+
 #about {
 	display: flex;
 	background-color: #F6D2B8;
